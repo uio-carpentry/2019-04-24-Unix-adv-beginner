@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "One day UNIX bash shell workshop"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: organizers@swcarpentry.uio.no
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
