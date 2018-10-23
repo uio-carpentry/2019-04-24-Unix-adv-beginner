@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "One day Unix Bash Shell workshop"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "One day workshop - Unix Bash Shell"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Kristine Bonnevies Hus, Seminar room 3213"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "no"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
